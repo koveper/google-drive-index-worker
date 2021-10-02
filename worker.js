@@ -1,7 +1,7 @@
 sa_array = []; // put your service accounts in this array in json format separated by ,  
 const random = Math.floor(Math.random() * sa_array.length);
 self.props = {
-    title: 'Google Drive Index',
+    title: 'Test',
     default_root_id: 'root',
     client_id: '202264815644.apps.googleusercontent.com',
     client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
